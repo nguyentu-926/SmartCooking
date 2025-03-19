@@ -1,1 +1,5 @@
 # SmartCooking
+SmartCooking là một ứng dụng quản lý bán đồ ăn thông minh, được thiết kế để hỗ trợ các cửa hàng, nhà hàng, hoặc dịch vụ giao đồ ăn trực tuyến trong việc quản lý, bán và giao món ăn một cách hiệu quả và tiện lợi. Ứng dụng giúp người dùng dễ dàng tìm kiếm, xem thông tin và đặt món ăn yêu thích ngay trên điện thoại thông minh, đồng thời giúp các chủ cửa hàng quản lý các món ăn và đơn hàng một cách dễ dàng.
+Với giao diện thân thiện và dễ sử dụng, SmartCooking cho phép người dùng tìm kiếm các món ăn theo loại (lẩu, nướng, cơm, v.v.), giá cả, và các yếu tố khác như mức độ phổ biến và thời gian chế biến. Đặc biệt, ứng dụng cung cấp thông tin chi tiết về từng món ăn, giúp người dùng dễ dàng đưa ra quyết định đặt món.
+SmartCooking không chỉ giúp người dùng đặt món ăn mà còn hỗ trợ các nhà quản lý cửa hàng trong việc cập nhật thông tin món ăn, quản lý đơn hàng, và theo dõi tình trạng thanh toán. Ứng dụng còn tích hợp các tính năng như lưu trữ các món ăn yêu thích, tạo danh sách mua sắm nguyên liệu, chia sẻ món ăn với bạn bè và người thân, và nhận gợi ý món ăn dựa trên sở thích và tình trạng nguyên liệu có sẵn trong bếp.
+![Uploading image.png…]()
